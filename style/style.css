@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    background-color: rgb(238, 132, 10);
+    height: 250px;
+    width: 250px;
+    border-radius: 35%;
+    position: absolute;
+    top: 250px;
+   left: 800px; 
+}
+
+.box-1{
+    background-color: rgb(238, 132, 10);
+    height: 120px;
+    width: 120px;
+    border-radius: 35%;
+    position: absolute;
+    top: -40px;
+    left: -30px;
+}
+.box-2{
+    background-color: rgb(238, 132, 10);
+    height: 120px;
+    width: 120px;
+    border-radius: 35%;
+    position: absolute;
+    top: -40px;
+   right: -30px; ;
+}
+
+.glass-one{
+    background-color: rgb(255, 255, 255);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+   position: absolute;
+top: 70px;
+left: 30px;
+}
+.glass-two{
+    background-color: rgb(255, 255, 255);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+   position: absolute;
+top: 70px;
+left:  130px;
+}
+
+
+.color{
+background-color: black;
+height: 40px;
+width: 40px;
+border-radius: 50%;
+position: absolute;
+left: 5px;
+top: 5px;
+}
+
+.nos{
+    background-color: rgb(190, 126, 30);
+    height: 40px;
+    width: 100px;
+border-radius: 35%;
+    position: absolute;
+    top: 140px;
+left: 40px;
+}
+
+.tela{
+    background-color: rgb(238, 132, 10);
+    height: 70px;
+    width: 100px;
+    position: absolute;
+    top: 500px;
+   left: 870px; 
+}
+
+.tela-bedro{
+    background-color: rgb(238, 132, 10);
+    height: 400px;
+    width: 250px;
+    border-radius: 30%;
+    position: absolute;
+    top: 550px;
+   left: 800px; 
+}
+.ruki{
+    background-color: rgb(238, 132, 10);
+    height: 100px;
+    width: 250px;
+    border-radius: 20%;
+    position: absolute;
+    top: 570px;
+   left: 600px;
+}
+.ruki2{
+    background-color: rgb(238, 132, 10);
+    height: 100px;
+    width: 250px;
+    border-radius: 20%;
+    position: absolute;
+    top: 570px;
+   left: 1000px;
+}
+
+.nogi{
+    background-color: rgb(238, 132, 10);
+    height: 400px;
+    width: 100px;
+    border-radius: 20%;
+    position: absolute;
+    top: 800px;
+   left: 950px;
+}
+.nogi2{
+    background-color: rgb(238, 132, 10);
+    height: 400px;
+    width: 100px;
+    border-radius: 20%;
+    position: absolute;
+    top: 800px;
+   left: 830px;
+}
